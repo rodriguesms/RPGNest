@@ -6,7 +6,7 @@ This is a Spring Boot application for the development of a Management System of 
 
 The Backend is being conceived in Spring Boot while the Frontend should be created using React.
 
-At this point, there are some options being considered, like the building of a Web App, or a Desktop App, or even a Mobile App. There is nothing defined until now.
+At this point, there are some options being considered, like the building of a Web App, or a Desktop App, or even a Mobile App. There is nothing defined until now. Maybe all of them. Qt using C++ may be useful at this point.
 
 This is a project for my free time. Considering that i'm in the end of a university semester, im pretty busy right now, so this project must wait a litte bit. I will be back in a few days. 
 
