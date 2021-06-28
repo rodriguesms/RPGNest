@@ -4,7 +4,7 @@
 
 This is a Spring Boot application for the development of a Management System of Virtual Tabletop RPG Campaigns. 
 
-The Backend is being conceived in Spring Boot while the Frontend should be created using React.
+The Backend is being conceived in Spring Boot.
 
 At this point, there are some options being considered, like the building of a Web App, or a Desktop App, or even a Mobile App. There is nothing defined until now. Maybe all of them. Qt using C++ may be useful at this point.
 
