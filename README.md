@@ -8,6 +8,8 @@ The Backend is being conceived in Spring Boot while the Frontend should be creat
 
 At this point, there are some options being considered, like the building of a Web App, or a Desktop App, or even a Mobile App. There is nothing defined until now.
 
+This is a project for my free time. Considering that i'm in the end of a university semester, im pretty busy right now, so this project must wait a litte bit. I will be back in a few days. 
+
 Some features to do:
 
 * User:
