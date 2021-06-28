@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This is a Spring Boot application for the development of a Management System of Virtual Tabletop RPG Campaigns. 
+This is an application for the development of a Management System of Virtual Tabletop RPG Campaigns. 
 
 The Backend is being conceived in Spring Boot.
 
